@@ -1,4 +1,7 @@
 {
     "python.linting.pylintEnabled": true,
-    "python.linting.pylintArgs": ["--generate-members"]
+    "python.linting.pylintArgs": [
+        "--generate-members"
+    ],
+    "python.pythonPath": "C:\\Program Files\\Python36\\python.exe"
 }
